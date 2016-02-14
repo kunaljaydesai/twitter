@@ -1,1 +1,1 @@
-python manage.py runserver
+web: gunicorn twitter_crm.wgsi —log-file -
